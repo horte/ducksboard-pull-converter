@@ -2,6 +2,8 @@ ducksboard-pull-converter
 =========================
 
 `http://ducksboard-pull-converter.herokuapp.com`
+Example: `http://ducksboard-pull-converter.herokuapp.com/?url=[URL-TO-JSON-CONTENT]&jsonpath=$.['com.yammer.metrics.web.WebappMetricsFilter'].requests.rate.mean`
+
 
 Converts any json field to a Ducksboard value
 
