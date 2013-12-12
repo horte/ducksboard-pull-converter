@@ -15,9 +15,11 @@ Converts any json field to a Ducksboard value
 ```
 
 
+## How to use?
+
 Takes to 2 params  
 
-url: the url to where the json exists  
+url: the url to where the json exists (url-encode if needed)
 
 jsonpath: the jsonpath for the value to extract (see https://github.com/jayway/JsonPath)  
 
